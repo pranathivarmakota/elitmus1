@@ -60,6 +60,7 @@ To get started with the project, you can clone the repository to your local mach
 
 8.Copy the project files to the htdocs folder in your XAMPP installation directory (usually located in C:\xampp\htdocs).
 
+![WhatsApp Image 2023-05-09 at 01 52 34](https://user-images.githubusercontent.com/113531544/236984911-ce7ea4c2-768c-4784-b2eb-1f99c11809a8.jpg)
 
 9.Edit the database connection details in the index.html file to match your MySQL database configuration.
 
