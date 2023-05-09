@@ -93,9 +93,20 @@ To use the project, you can follow these steps:
 
 1.Open the index.php file in your browser to access the login form.
 
+![WhatsApp Image 2023-05-09 at 02 06 22](https://user-images.githubusercontent.com/113531544/236985078-56b9cf17-0efd-4cd2-8f7b-8c76ad6978f6.jpg)
+
+
 2.Enter your username and password and click on the "Login" button.
+
+![WhatsApp Image 2023-05-09 at 02 19 49](https://user-images.githubusercontent.com/113531544/236985132-eada3b84-1b60-4650-8be7-cde4290f0c67.jpg)
+
+
+
 If the login is successful, you will be redirected to the puzzle.html file.
 3.Play the Uncovering the Secrets: The Ultimate Treasure Hunt Adventure and have fun!
+![WhatsApp Image 2023-05-09 at 02 17 02](https://user-images.githubusercontent.com/113531544/236985224-faca678b-867a-4914-8db3-afdd083cbf60.jpg)
+![WhatsApp Image 2023-05-09 at 02 17 11](https://user-images.githubusercontent.com/113531544/236985264-15abd5fa-0f27-4593-9b07-d7e390dd5210.jpg)
+
 
 
 
