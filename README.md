@@ -43,6 +43,8 @@ To get started with the project, you can clone the repository to your local mach
 
 1.Download and install XAMPP v3.30 from the official website.
 2.Start the XAMPP Control Panel and start the Apache and MySQL services.
+ ![Screenshot (22)](https://user-images.githubusercontent.com/113531544/236983862-60fb3c04-7cc8-45f3-bf27-19621cdd9a8c.png)
+
 3.Open your web browser and navigate to http://localhost/phpmyadmin. 4.Create a new MySQL database by clicking on the "New" button on the left-hand side and giving your database a name.
 
 5.Select the newly created database from the list on the left-hand side and click on the "Import" tab.
